@@ -1,9 +1,3 @@
----
-description: >-
-  <img src="https://pic.downk.cc/item/5ed428fec2a9a83be53be44a.png"height="140"
-  width="140">
----
-
 # 早坂的沙雕日常
 
 **目录在左上角**
